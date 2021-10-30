@@ -1,0 +1,23 @@
+{
+  "name": "soft-touch-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traumverloren/soft-touch-music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traumverloren/soft-touch-music/issues"
+  },
+  "homepage": "https://github.com/traumverloren/soft-touch-music#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "i2c": "^0.2.5"
+  }
+}
